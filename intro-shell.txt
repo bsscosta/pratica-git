@@ -1,0 +1,7 @@
+Usamos o comando 'pwd' para saber aonde estávamos.
+Usamos o comando 'ls' para listar tds os arquivos da pasta.
+Usamos o comando 'cd Desktop' para entrar no Desktop 
+Usamos o comando 'cd ..' para sair do Desktop 
+Usamos o comando 'mkdir' para criar a pasta pratica-shell.
+Usamos o comando 'cd pratica-shell' para entrar na pasta pratica-shell.
+Criamos o arquivo intro-shell utilizando o editor de texto Notepad++
