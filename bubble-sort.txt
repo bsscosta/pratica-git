@@ -2,3 +2,7 @@ Primeira Versão
 Compare a primeira carta com todas as outras à direita dela, uma por uma, mantendo sempre a menor das comparadas à esquerda trocando quando necessário.
 Repita o processo com a segunda, terceira e quarta cartas, nesta ordem. 
 mudança de teste
+
+Segunda Versão
+Da primeira à quarta carta, nesta ordem, compare com cada carta a sua direita, trocando quando necessário para manter a menor à esquerda.
+
